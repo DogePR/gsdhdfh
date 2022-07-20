@@ -1,6 +1,5 @@
-
 local args = {
-    [1] = game:GetService("Players").name,
+    [1] = game:GetService("Players").FoxyFull_Dev,
     [2] = "50000"
 }
 
